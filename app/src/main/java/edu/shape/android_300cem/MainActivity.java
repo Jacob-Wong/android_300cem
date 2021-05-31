@@ -35,6 +35,7 @@ import java.util.ArrayList;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 import edu.shape.android_300cem.Fragments.ChatsFragment;
+import edu.shape.android_300cem.Fragments.ProfileFragment;
 import edu.shape.android_300cem.Fragments.UsersFragment;
 import edu.shape.android_300cem.Model.User;
 
@@ -87,6 +88,8 @@ public class MainActivity extends AppCompatActivity {
 
         viewPagerAdapter.addFragment(new ChatsFragment(), "Chats");
         viewPagerAdapter.addFragment(new UsersFragment(), "Users");
+        viewPagerAdapter.addFragment(new ProfileFragment(), "Profile");
+
 
         viewPager.setAdapter(viewPagerAdapter);
 
