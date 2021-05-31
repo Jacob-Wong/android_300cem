@@ -20,7 +20,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="100dp"
-        android:background="@color/coloPrimaryDark"
         android:text="login"
         android:textColor="#fff" />
 
@@ -29,7 +28,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:background="@color/coloPrimaryDark"
         android:text="register"
         android:textColor="#fff" />
 
