@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219161009754",
+    "project_id": "android-300cem",
+    "storage_bucket": "android-300cem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219161009754:android:416085f3bf652414a9c263",
+        "android_client_info": {
+          "package_name": "edu.shape.android_300cem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219161009754-b0vtvq6rsofkkgnrhbtmpsh19131pd2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrLGaISe2jKXTARiqq0BgHAY5IHbjD-A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219161009754-b0vtvq6rsofkkgnrhbtmpsh19131pd2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
