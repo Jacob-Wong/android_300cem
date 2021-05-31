@@ -2,7 +2,8 @@
   "project_info": {
     "project_number": "219161009754",
     "project_id": "android-300cem",
-    "storage_bucket": "android-300cem.appspot.com"
+    "storage_bucket": "android-300cem.appspot.com",
+    "firebase_url": "https://android-300cem-default-rtdb.asia-southeast1.firebasedatabase.app/"
   },
   "client": [
     {
